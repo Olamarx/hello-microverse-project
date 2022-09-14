@@ -1,26 +1,21 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Hello Microverse Project
 
-> Description the project.
+> This is a project that renders only 'Hello Microverse' on the UI and it is a project I was asked to build for code review role.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML
+- CSS
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link (Not available yet)]()
 
 
 ## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
 
 To get a local copy up and running follow these simple example steps.
 
@@ -37,20 +32,14 @@ To get a local copy up and running follow these simple example steps.
 ### Deployment
 
 
-
 ## Authors
 
-👤 **Author1**
+👤 **Owoeye Olaoluwa (Olamarx)**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/Olamarx)
+- Twitter: [@twitterhandle](https://twitter.com/Owoeye0laoluwa)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/olaoluwa-owoeye-617702162/)
+- Facebook: [Facebook](https://web.facebook.com/olaoluwa.owoeye.39)
 
 ## 🤝 Contributing
 
